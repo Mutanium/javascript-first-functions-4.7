@@ -10,6 +10,7 @@ const greeting = morningGreeter();
 
 console.log(greeting);
 
+
 /* Opdracht 1 */
 // Schrijf een functie genaamd getSchool, die de string "Novi Hogeschool" teruggeeft
 // ---- Verwachte uitkomst bij het aanroepen van de functie: "Novi Hogeschool"
@@ -43,7 +44,7 @@ console.log(compliment2("Henk"));
 
 /* Opdracht 3 */
 // Schrijf een functie genaamd getGrades, die een array met de cijfers 8, 8.5, 6 en 7 teruggeeft.
-// ---- Verwachte uitkomst bij het aanroepen van de functie: [8, 8.5, 6, 7]
+// ---- Verwachte uitkomst bij ht aanroepen van de functie: [8, 8.5, 6, 7]
 
 function getGrades() {
   return [8, 8.5, 6, 7];
